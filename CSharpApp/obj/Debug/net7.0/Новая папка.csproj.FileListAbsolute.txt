@@ -1,0 +1,30 @@
+C:\Users\Anastasia\Desktop\project\Новая папка\bin\Debug\net7.0\Новая папка.exe
+C:\Users\Anastasia\Desktop\project\Новая папка\bin\Debug\net7.0\Новая папка.deps.json
+C:\Users\Anastasia\Desktop\project\Новая папка\bin\Debug\net7.0\Новая папка.runtimeconfig.json
+C:\Users\Anastasia\Desktop\project\Новая папка\bin\Debug\net7.0\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\Новая папка\bin\Debug\net7.0\Новая папка.pdb
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\refint\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.pdb
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\Новая папка.genruntimeconfig.cache
+C:\Users\Anastasia\Desktop\project\Новая папка\obj\Debug\net7.0\ref\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\CSharpApp\bin\Debug\net7.0\Новая папка.exe
+C:\Users\Anastasia\Desktop\project\CSharpApp\bin\Debug\net7.0\Новая папка.deps.json
+C:\Users\Anastasia\Desktop\project\CSharpApp\bin\Debug\net7.0\Новая папка.runtimeconfig.json
+C:\Users\Anastasia\Desktop\project\CSharpApp\bin\Debug\net7.0\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\CSharpApp\bin\Debug\net7.0\Новая папка.pdb
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\refint\Новая папка.dll
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.pdb
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\Новая папка.genruntimeconfig.cache
+C:\Users\Anastasia\Desktop\project\CSharpApp\obj\Debug\net7.0\ref\Новая папка.dll
