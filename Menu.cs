@@ -88,7 +88,7 @@
             Console.Write("Кол-вo топлива в баке (л)"); // Количество бензина
             double fuel = GetConsoleDouble();
 
-            Autos.Add(new Auto(name, mass, fuelTank, fuelType, fuel)); // Добавление машины в массив
+            Autos.Add(new Auto(mass, name, fuelTank, fuelType, fuel)); // Добавление машины в массив
 
             Console.Clear(); // Вывод итога
             Console.WriteLine($"=== Участник #{name} добавлен ===");
@@ -163,7 +163,7 @@
             for (int i = 0; i < Carriages.Count; i++) // Выводим кареты
             {
                 Console.WriteLine($"- #{Carriages[i].Name}");
-                Console.WriteLine($"Масса: {Carriages[i].MassCarriage}");
+                Console.WriteLine($"Масса: {Carriages[i].Mass}");
 
                 for (int j = 0; j < Carriages[i].GetHorseCount(); j++) // Выводим коней
                 {

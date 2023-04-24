@@ -5,16 +5,14 @@ using System.Transactions;
 namespace CSharpApp
 {
 
-    public class Auto 
+    public class Auto : Transport
     {
-        public int Mass { get; init; } // Масса машины (кг)
-        public string Name { get; init; } // Имя машины
         public int FuelTank { get; init; } // Объём бака (литры)
         public int FuelType { get; init; } // Тип топлива (bens = 1, gas = 2, disel = 3)
         public double Fuel { get; set; } // Текущее кол-во топлива в баке на данный момент
         public double Rate { get; init; } // Расход топлива (считается в конструкторе и зависит от типа)
 
-        public Auto(string name, int mass, int fuelTank, int fuelType, double fuel)
+        public Auto(int mass, string name, int fuelTank, int fuelType, double fuel) : base(mass, name)
         {
             const int REDUCING_FACTOR = 1000;
             const double BENZ_COEF_OF_LOSING_FUEL = 0.7;

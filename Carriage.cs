@@ -2,22 +2,21 @@ using System;
 
 namespace CSharpApp
 {
-    public class Carriage
+    public class Carriage : Transport
     {
-        public string Name { get; init; } // Прозвище участника
-        public int MassCarriage { get; init; } // Масса кареты
+  
         public List<double> HorseFatigue { get; init; } // Список усталости коней
 
-        public Carriage(string name, int massCarriage)
+        public Carriage(string name, int mass): base(mass, name)
         {
             if (name == null) throw new ArgumentNullException("Прозвище не может быть пустое");
             Name = name;
 
-            if (massCarriage < 0)
+            if (mass < 0)
             {
                 throw new ArgumentException("масса не может быть меньше нуля");
             }
-            MassCarriage = massCarriage;
+            Mass = mass;
             HorseFatigue = new List<double>(); // Создаём пустой список коней (добавляем потом через функцию)
         }
 
